@@ -30,29 +30,17 @@ void A()
 
 void B()
 {
-    char bukvaB;
-    cout << "vvedite bukvu B: ";
-    cin >> bukvaB;
-    if (bukvaB == 'B')
-        cout << "vi vveli: " << bukvaB << endl;
-    else
-        cout << "neverno. vvedite zaglavnyu bukvu B" << endl;
+    
 }
 
 void slozhenie()
 {   
-    int num1 = check("vvedite pervoe chislo: ");
-    int num2 = check("vvedite vtoroe chislo: ");
-    int result = num1 + num2;
-    cout << "summa: " << result << endl;
+    
 }
 
 void vichitanie()
 {
-    int num1 = check("vvedite pervoe chislo: ");
-    int num2 = check("vvedite vtoroe chislo: ");
-    int result = num1 - num2;
-    cout << "raznost: " << result << endl;
+    
 }
 
 int main() 
